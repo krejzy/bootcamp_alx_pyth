@@ -1,0 +1,11 @@
+{
+  "funkcj_zad1.py": true,
+  "funkcj_zad1.py::test_czy_jest_pierwsza_dla_liczby_niepierwszej": true,
+  "funkcj_zad1.py::test_czy_jest_pierwsza_dla_liczby_pierwszej": true,
+  "funkcje.zad1.py": true,
+  "funkcje_examples.py": true,
+  "funkcje_zad2.py::test_wi\u0119cej_ni\u017c_dla_pustego_napisu": true,
+  "funkcje_zad3.py": true,
+  "funkcje_zad4.py": true,
+  "funkcje_zad4.py::test_formatuj_napis_ze_znacznikiem": true
+}

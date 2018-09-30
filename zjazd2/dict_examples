@@ -1,0 +1,8 @@
+my_dict = dict()
+my_dict["python"] = "The best language ever"
+my_dict = {
+    'javascript': language...
+}
+
+
+print(my_dict [lang], oceny_jezyków [lang])

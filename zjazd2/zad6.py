@@ -7,11 +7,11 @@ liczby = [5,2,1,4,3]
 indeks_min = None
 indeks_max = None
 
-for i in range(len(liczby):
+for i in range(len(liczby:
     pass
 
 
-for i in range(len(liczby):
+for i in range(len(liczby:
     pass
 
 print(list(range(len(liczby))))

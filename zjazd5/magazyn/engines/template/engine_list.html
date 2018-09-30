@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista</title>
+</head>
+<body>
+<h3>Lista dostępnych silników:</h3>
+<ul>
+    {# To jest cos #}
+    {% for engine in engine}
+    <li><a href="/engine.id}}">{{ engine.name }} | {{ engine.description }}</a>  | <span style='color: {{engine.container.color}}'>{{engine.container}}</span></li>
+    {% endfor %}
+</ul>
+</body>
+</html>
+
+
+</html>

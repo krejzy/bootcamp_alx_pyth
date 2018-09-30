@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista</title>
+</head>
+<body>
+<h3>Lista oferowanych samochodów:</h3>
+<ul>
+    {# To jest cos #}
+    {% for cars in cars %}
+    <li><a href="/cars/{{cars.id}}">{{ cars.name }} | {{ cars.description }}</a>  | <span style='color: {{cars.container.color}}'>{{cars.container}}</span></li>
+    {% endfor %}
+</ul>
+</body>
+</html>
+
+
+</html>
